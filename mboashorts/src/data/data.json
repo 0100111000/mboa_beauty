@@ -1,0 +1,158 @@
+[
+    {
+        "id": "1",
+        "username": "Goodfind",
+        "videoUrl": "/videos/1.mp4",
+        "isFollowed": true,
+        "title": "Look",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "1.1M",
+            "comments": "40K",
+            "isLiked": true
+        }
+    },
+    {
+        "id": "2",
+        "username": "Amea",
+        "videoUrl": "/videos/2.mp4",
+        "isFollowed": true,
+        "title": "Firsh",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "1M",
+            "comments": "100",
+            "isLiked": true
+        }
+    },
+     {
+        "id": "3",
+        "username": "UIX",
+        "videoUrl": "/videos/3.mp4",
+        "isFollowed": true,
+        "title": "Luxus",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "5M",
+            "comments": "40",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "4",
+        "username": "UX",
+        "videoUrl": "/videos/4.mp4",
+        "isFollowed": true,
+        "title": "Uiirris",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "5M",
+            "comments": "40",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "5",
+        "username": "Azzzer",
+        "videoUrl": "/videos/5.mp4",
+        "isFollowed": true,
+        "title": "Luxus",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "80",
+            "comments": "40",
+            "isLiked": true
+        }
+    },
+    {
+        "id": "6",
+        "username": "AzIIr",
+        "videoUrl": "/videos/6.mp4",
+        "isFollowed": true,
+        "title": "Matreieuse",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "70",
+            "comments": "10",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "7",
+        "username": "Azzzer",
+        "videoUrl": "/videos/7.mp4",
+        "isFollowed": true,
+        "title": "Luxus",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "80",
+            "comments": "40",
+            "isLiked": true
+        }
+    },
+    {
+        "id": "8",
+        "username": "Ar",
+        "videoUrl": "/videos/8.mp4",
+        "isFollowed": true,
+        "title": "Luxus",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "80K",
+            "comments": "2K",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "9",
+        "username": "Az9r",
+        "videoUrl": "/videos/9.mp4",
+        "isFollowed": true,
+        "title": "Locos",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "7",
+            "comments": "4",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "10",
+        "username": "AUUr",
+        "videoUrl": "/videos/10.mp4",
+        "isFollowed": true,
+        "title": "Loos",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "7",
+            "comments": "4",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "11",
+        "username": "yyess",
+        "videoUrl": "/videos/11.mp4",
+        "isFollowed": true,
+        "title": "LOOOO",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "32",
+            "comments": "90",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "12",
+        "username": "Az9r",
+        "videoUrl": "/videos/12.mp4",
+        "isFollowed": true,
+        "title": "Opass",
+        "profileUrl": "/user.png",
+        "reaction": {
+            "likes": "90",
+            "comments": "49",
+            "isLiked": true
+        }
+    }        
+]

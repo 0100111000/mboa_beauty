@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Formulaire de contact</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1 class="ha">Formulaire de contact</h1>
+  <form action="emplo/dd.html" method="POST">
+    <label for="nom">Nom :</label>
+    <input type="text" id="nom" name="nom" placeholder="Votre nom" required><br><br>
+    
+    <label class="hb" for="email">Email :</label>
+    <input type="email" id="email" name="email" placeholder="Votre email" required><br><br>
+
+    <label class="hc" for="password">Password :</label>
+    <input type="password" id="password" name="password" placeholder="Votre Mot de passe" required><br><br>
+    
+    <label for="message">Message :</label>
+    <textarea id="message" name="message" rows="4" cols="50" placeholder="Votre message" required></textarea><br><br>
+
+    <input type="submit" value="Envoyer">
+    <input type="reset" value="Effacer">
+  </form>
+</body>
+</html>

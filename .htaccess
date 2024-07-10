@@ -1,0 +1,18 @@
+ErrorDocument 404 /pro/404.php
+# Activer la réécriture d'URL
+#RewriteEngine On
+
+# Supprimer l'extension .php
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME}\.php -f
+#RewriteRule ^(.*)$ $1.php
+
+# Supprimer l'extension .html
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME}\.html -f
+#RewriteRule ^(.*)$ $1.html
+
+# Réécriture d'URL (exemple)
+# Ancienne URL : www.example.com/product.php?id=1
+# Nouvelle URL : www.example.com/product/1
+#RewriteRule ^product/([0-9]+)/?$ product.php?id=$1 [NC,L]
